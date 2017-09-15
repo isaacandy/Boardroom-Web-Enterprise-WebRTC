@@ -1,12 +1,12 @@
 {
 "update_url": "https://clients2.google.com/service/update2/crx",
 
-  "name" : "OpenTokRTC Screen Sharing",
-  "author": "TokBox, Inc.",
+  "name" : "Gosip Screen Sharing",
+  "author": "iZND, Inc.",
   "version" : "1.4",
   "manifest_version" : 2,
   "minimum_chrome_version": "34",
-  "description" : "This Chrome extension is developed for Tokbox demos. It simply captures the content of your screen.",
+  "description" : "This Chrome extension is developed for Gosip demos. It simply captures the content of your screen.",
   "homepage_url": "https://opentokdemo.tokbox.com",
   "background": {
     "scripts": ["background-script.js"],
