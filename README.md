@@ -3,9 +3,9 @@
 # OpenTokRTC v2
 [![Build Status](https://travis-ci.com/opentok/OpenTokRTC-V2.svg?token=qPpN1jG8Wftsn1cafKif&branch=master)](https://travis-ci.com/opentok/OpenTokRTC-V2)
 
-OpenTokRTC is your private web-based video conferencing solution. It is based on the TokBox
+GOSIP is your private web-based video conferencing solution. It is based on the TokBox
 [OpenTok platform](https://tokbox.com/developer/) and uses the OpenTok SDKs and API. You can deploy
-OpenTokRTC on your servers to get your own Google Hangouts alternative running on WebRTC.
+GOSIP on your servers to get your own Google Hangouts alternative running on WebRTC.
 
 This repository contains a Node.js server and a web client application.
 
@@ -28,13 +28,13 @@ This repository contains a Node.js server and a web client application.
 
 ## Installation
 
-If you want to install OpenTokRTC on your own server, read on. If you want to deploy OpenTokRTC to Heroku, see [`INSTALL-heroku.md`](INSTALL-heroku.md).
+If you want to install GOSIP on your own server, read on. If you want to deploy OpenTokRTC to Heroku, see [`INSTALL-heroku.md`](INSTALL-heroku.md).
 
 ### Requirements
 
 You will need these dependencies installed on your machine:
 
-- [NodeJS v4+](https://nodejs.org): This version of OpenTokRTC is tested with NodeJS v4 LTS.
+- [NodeJS v4+](https://nodejs.org): This version of GOSIP is tested with NodeJS v4 LTS.
 - [Redis](https://redis.io): A `redis` server running on `localhost`.
 - [Grunt](http://gruntjs.com): Used for bundling assets and running tests. You can install the Grunt CLI globally by running: `# npm i -g grunt-cli`.
 
