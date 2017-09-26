@@ -1,13 +1,13 @@
 {
 "update_url": "https://clients2.google.com/service/update2/crx",
 
-  "name" : "Gosip Screen Sharing",
+  "name" : "Chrome Screen Sharing",
   "author": "iZND, Inc.",
   "version" : "1.4",
   "manifest_version" : 2,
   "minimum_chrome_version": "34",
-  "description" : "This Chrome extension is developed for Gosip demos. It simply captures the content of your screen.",
-  "homepage_url": "https://opentokdemo.tokbox.com",
+  "description" : "This Chrome extension is developed for Boardroom demos. It simply captures the content of your screen.",
+  "homepage_url": "https://boardroom.gosip.online",
   "background": {
     "scripts": ["background-script.js"],
     "persistent": false
@@ -15,7 +15,7 @@
   "content_scripts": [ {
    "js": [ "content-script.js" ],
    "all_frames": true,
-   "matches": ["https://opentokdemo.tokbox.com/*", "https://pse001-iad.herokuapp.com/*"]
+   "matches": ["https://boardroom.gosip.online/*", "https://boardroom.gosip.online.herokudns.com/*"]
   }],
   "icons": {
     "16": "logo16.png",
