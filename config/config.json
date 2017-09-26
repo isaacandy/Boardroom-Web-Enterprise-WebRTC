@@ -14,10 +14,10 @@
       }
    },
    "Feedback":{
-      "enabled":false
+      "enabled":true
    },
    "Screensharing":{
-      "enabled":false,
+      "enabled":true,
       "chromeExtensionId":null,
       "annotations":{
          "enabled":true
