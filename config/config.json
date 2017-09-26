@@ -1,0 +1,26 @@
+{
+   "OpenTok":{
+      "apiKey": "3338992",
+      "apiSecret": "da8ea1e59817eacb9f02d7ca5131b8b12c9bffa3"
+   },
+   "Firebase":{
+      "dataUrl":"https://boardroom-3362c.firebaseio.com/",
+      "authSecret":"raFPVfSIR6s48MijtEiFYBCYxmTXNGULhsgZ9Qzi"
+   },
+   "Archiving":{
+      "enabled":true,
+      "archiveManager":{
+         "enabled":false
+      }
+   },
+   "Feedback":{
+      "enabled":false
+   },
+   "Screensharing":{
+      "enabled":false,
+      "chromeExtensionId":null,
+      "annotations":{
+         "enabled":true
+      }
+   }
+}
