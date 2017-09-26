@@ -15,7 +15,7 @@
   "content_scripts": [ {
    "js": [ "content-script.js" ],
    "all_frames": true,
-   "matches": ["https://boardroom.gosip.online/*", "https://boardroom.gosip.online.herokudns.com/*"]
+   "matches": ["https://boardroom.gosip.online/*", "https://boardroom2.herokuapp.com/*"]
   }],
   "icons": {
     "16": "logo16.png",
