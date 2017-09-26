@@ -1,4 +1,4 @@
-# Installing OpenTokRTC on Heroku
+# Installing GOSIP on Heroku
 
 Heroku is a PaaS (Platform as a Service) that can be used to deploy simple and small applications
 for free.
