@@ -7,19 +7,19 @@
     "productivity"
   ],
   "website": "https://boardroom.gosip.online",
-  "repository": "https://github.com/opentok/OpentokRTC-V2.git",
-  "logo": "https://tokbox.com/developer/img/OT_logo.png",
+  "repository": "https://github.com/iZNDGroup/Boardroom-Web-Multi-Video-Conf-OpenTokRTC-V2-.git",
+  "logo": "http://www.google.com/a/cpanel/izndgroup.com/images/logo.gif",
   "success_url": "/",
   "scripts": {
     "postdeploy": "bower install && grunt clientBuild"
   },
   "env": {
     "TB_API_KEY": {
-      "3338992",
+      "45967232",
       "required": "true"
     },
     "TB_API_SECRET": {
-      "da8ea1e59817eacb9f02d7ca5131b8b12c9bffa3",
+      "8eafe3ebce78ef157db2894eb8acbaa7142041da",
       "required": "true"
     },
     "FB_DATA_URL": {
