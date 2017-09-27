@@ -7,11 +7,15 @@
       "dataUrl":"https://boardroom-3362c.firebaseio.com/",
       "authSecret":"raFPVfSIR6s48MijtEiFYBCYxmTXNGULhsgZ9Qzi"
    },
-   "Archiving":{
-      "enabled":true,
-      "archiveManager":{
-         "enabled":false
-      }
+  "Archiving": {
+    "enabled": true,
+    "archiveAlways": false,
+    "pollingInitialTimeout": 5000,
+    "pollingTimeoutMultiplier": 1.5,
+    "archiveManager": {
+        "enabled": false,
+        "emptyRoomMaxLifetime": 3
+    },
    },
    "Feedback":{
       "enabled":true
@@ -21,6 +25,9 @@
       "chromeExtensionId":null,
       "annotations":{
          "enabled":true
+
+}
+
       }
    }
 }
