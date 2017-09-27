@@ -1,7 +1,7 @@
 {
-  "name": "opentokrtc-v2",
+  "name": "Boardroom",
   "version": "1.0.0",
-  "description": "OpenTok RTC sample application to show off the OpenTok API and platform capabilities ",
+  "description": "Boardroom RTC sample application to show off the OpenTok API and platform capabilities ",
   "main": "server.js",
   "engines": {
     "node": "4.8.x",
