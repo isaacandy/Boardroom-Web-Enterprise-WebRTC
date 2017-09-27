@@ -13,11 +13,11 @@
     "pollingInitialTimeout": 5000,
     "pollingTimeoutMultiplier": 1.5,
     "archiveManager": {
-        "enabled": false,
+        "enabled": true,
         "emptyRoomMaxLifetime": 3
-      },
+      }
    },
-   "Feedback":{
+  "Feedback": {
       "enabled":true
    },
    "Screensharing":{
