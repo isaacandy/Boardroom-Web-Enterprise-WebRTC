@@ -15,20 +15,20 @@
   },
   "env": {
     "TB_API_KEY": {
-      "45967232",
+      "45967232"
       "required": "true",
     },
     "TB_API_SECRET": {
-      "8eafe3ebce78ef157db2894eb8acbaa7142041da",
+      "8eafe3ebce78ef157db2894eb8acbaa7142041da"
       "required": "true",
     },
     "FB_DATA_URL": {
-      "https://boardroom-3362c.firebaseio.com/",
+      "https://boardroom-3362c.firebaseio.com/"
       "required": "false",
     },
     "FB_AUTH_SECRET": {
-      "raFPVfSIR6s48MijtEiFYBCYxmTXNGULhsgZ9Qzi",
-      "required": "false",
+      "raFPVfSIR6s48MijtEiFYBCYxmTXNGULhsgZ9Qzi"
+      "required": "false"
     }
   },
   "addons": [
