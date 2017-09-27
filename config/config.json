@@ -15,7 +15,7 @@
     "archiveManager": {
         "enabled": false,
         "emptyRoomMaxLifetime": 3
-    }
+    },
 },
    "Feedback":{
       "enabled":true
@@ -26,7 +26,6 @@
       "annotations":{
          "enabled":true
 
-}
 
       }
    }
