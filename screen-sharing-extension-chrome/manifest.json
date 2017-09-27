@@ -12,6 +12,9 @@
     "scripts": ["background-script.js"],
     "persistent": false
   },
+    "externally_connectable": {
+    "matches": ["https://boardroom.gosip.online/*"]
+  },
   "content_scripts": [ {
    "js": [ "content-script.js" ],
    "all_frames": true,
