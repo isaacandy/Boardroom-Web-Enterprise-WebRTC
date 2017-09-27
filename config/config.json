@@ -13,7 +13,7 @@
     "pollingInitialTimeout": 5000,
     "pollingTimeoutMultiplier": 1.5,
     "archiveManager": {
-        "enabled": false,
+        "enabled": true,
         "emptyRoomMaxLifetime": 3
       },
    },
