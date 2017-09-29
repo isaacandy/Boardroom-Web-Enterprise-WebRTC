@@ -7,16 +7,14 @@
       "dataUrl":"https://boardroom-3362c.firebaseio.com/",
       "authSecret":"raFPVfSIR6s48MijtEiFYBCYxmTXNGULhsgZ9Qzi"
    },
-"Archiving": {
-    "enabled": true,
-    "archiveAlways": false,
-    "archiveManager": {
-        "enabled": true,
-        "emptyRoomMaxLifetime": 3
+   "Archiving":{
+      "enabled":true,
+      "archiveManager":{
+         "enabled":false
       }
    },
-  "Feedback": {
-      "enabled":true
+   "Feedback":{
+      "enabled":false
    },
    "Screensharing":{
       "enabled":true,
