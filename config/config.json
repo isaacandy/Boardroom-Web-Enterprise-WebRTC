@@ -10,17 +10,17 @@
    "Archiving":{
       "enabled":true,
       "archiveManager":{
-         "enabled":true
+         "enabled":false
       }
    },
    "Feedback":{
-      "enabled":true
+      "enabled":false
    },
    "Screensharing":{
       "enabled":true,
       "chromeExtensionId": "idjdegcicoappochknpcmenkffgddgig",
       "annotations":{
-         "enabled":true
+         "enabled":false
       },
    },
 }
