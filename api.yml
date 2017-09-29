@@ -5,7 +5,7 @@ info:
     OpenTok Demo App, v2.0 path and API description. TO-DO: Add here a general
     description of the page navigation.
   version: 1.0.0
-host: opentokdemo.tokbox.com
+host: demo.boardroom.work
 schemes:
   - https
 basePath: /
