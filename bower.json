@@ -1,5 +1,5 @@
 {
-  "name": "BoardroomMain",
+  "name": "boardroommain",
   "dependencies": {
     "theme": "tef-components/theme#0.2.68"
   }
