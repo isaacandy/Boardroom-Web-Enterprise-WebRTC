@@ -10,11 +10,11 @@
    "Archiving":{
       "enabled":true,
       "archiveManager":{
-         "enabled":false
+         "enabled":true
       }
    },
    "Feedback":{
-      "enabled":false
+      "enabled":true
    },
    "Screensharing":{
       "enabled":true,
