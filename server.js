@@ -9,7 +9,7 @@ var server =
  new Server({
    apiFile: './api.yml',
    modulePath: __dirname + '/server/',
-   appName: 'Boardroom Main'
+   appName: 'BoardroomMain'
  });
 
 server.start();
