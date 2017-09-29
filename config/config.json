@@ -14,7 +14,7 @@
       }
    },
    "Feedback":{
-      "enabled":false
+      "enabled":true
    },
    "Screensharing":{
       "enabled":true,
