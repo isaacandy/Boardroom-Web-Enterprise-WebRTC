@@ -9,7 +9,7 @@ var server =
  new Server({
    apiFile: './api.yml',
    modulePath: __dirname + '/server/',
-   appName: 'OpentokRTC-V2 Main'
+   appName: 'Boardroom Main'
  });
 
 server.start();
