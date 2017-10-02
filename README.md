@@ -1,6 +1,6 @@
 ![logo](./tokbox-logo.png)
 
-# OpenTokRTC v2
+# Boardroom - using OpenTokRTC v2
 [![Build Status](https://travis-ci.com/opentok/OpenTokRTC-V2.svg?token=qPpN1jG8Wftsn1cafKif&branch=master)](https://travis-ci.com/opentok/OpenTokRTC-V2)
 
 Boardroom is your private web-based video conferencing solution. It is based on the TokBox
