@@ -10,7 +10,7 @@
    "Archiving":{
       "enabled":true,
       "archiveManager":{
-         "enabled":false
+         "enabled":true
       }
    },
    "Feedback":{
