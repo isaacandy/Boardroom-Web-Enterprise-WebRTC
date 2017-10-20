@@ -7,7 +7,7 @@
     "productivity"
   ],
   "website": "https://demo.boardroom.work",
-  "repository": "https://github.com/iZNDGroup/Boardroom-Web-Multi-Video-Conf-OpenTokRTC-V2-.git",
+  "repository": "https://github.com/iZNDGroup/Boardroom-Web-Multi-Video-Conf--Webrtc.git",
   "logo": "http://www.google.com/a/cpanel/izndgroup.com/images/logo.gif",
   "success_url": "/",
   "scripts": {
@@ -24,11 +24,11 @@
     },
     "FB_DATA_URL": {
       "https://boardroom-3362c.firebaseio.com/"
-      "required": "false",
+      "required": "true",
     },
     "FB_AUTH_SECRET": {
       "raFPVfSIR6s48MijtEiFYBCYxmTXNGULhsgZ9Qzi"
-      "required": "false"
+      "required": "true"
     }
   },
   "addons": [
